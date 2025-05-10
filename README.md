@@ -31,7 +31,7 @@ The database consists of the following tables:
 
 - dept_manager - Stores department manager asignments.
 
-- salarie - Records employee salaries.
+- salary - Records employee salaries.
 
 - titles - Store employee job titles.
 
